@@ -1,30 +1,61 @@
-# Anki-Deck für Fahrlehreranwärter
+# AnkiFLA – Anki-Deck für die Fahrlehrerausbildung
 
-Dieses Anki-Deck ist für Fahrlehreranwärter konzipiert und deckt wichtige Themen des Verkehrsrechts, Lernmethoden, Strafrechts, Punkte in der StVO und mehr ab. Es bietet eine strukturierte Lernhilfe, die sowohl für aktuelle Fahrschüler als auch für zukünftige Klassen nützlich ist.
+**AnkiFLA** ist ein offenes, kostenloses Anki-Karteikarten-Deck für die Fahrlehrerausbildung in Deutschland.  
+Es enthält prüfungsrelevante Fragen & Antworten aus allen wichtigen Bereichen – ideal zur aktiven Wiederholung, Prüfungsvorbereitung und Wissensauffrischung.
 
-## Themen umfassen:
+## Themenbereiche
 
-- **Verkehrsrecht:** Vorfahrtsregeln, Verkehrszeichen, Besondere Verkehrssituationen
-- **Lernmethoden:** Effektive Lerntechniken für Fahrschüler, Pädagogische Ansätze
-- **Strafrecht:** Rechtliche Konsequenzen von Verkehrsdelikten, Alkohol- und Drogenmissbrauch
-- **Punkte in der StVO:** Verstöße und ihre Punktebewertung, Möglichkeiten zur Punktereduzierung
-- **Sonstiges:** Fahrzeugsicherheit, Umweltschutz im Verkehr, Aktuelle Entwicklungen in der Verkehrssicherheit
+- **Verkehrsrecht** (z. B. StVO, StVZO, FeV)
+- **Fahrphysik**  
+  Grundlagen wie Haftung, Bremsweg, Reibung, Fliehkräfte, physikalische Gesetze beim Fahren.
+- **Fahrerassistenzsysteme (FAS)**  
+  Funktionen, Nutzen und Grenzen moderner Systeme wie ABS, ESP, ACC, Spurhalteassistent, Notbremsassistent etc.
+- **Lernmethoden & Prüfungstipps**
+- **Strafrecht & Ordnungswidrigkeiten**
+- **Punktesystem & Fahreignungsregister**
+- **StVO & Verkehrszeichen**
+- **Weitere prüfungsrelevante Themen**
 
-## Nutzung
+## Verwendung
 
-1. **Installation von Anki:**
-   - Installiere Anki auf deinem Desktop oder mobil über [AnkiWeb](https://apps.ankiweb.net/).
+1. [Anki herunterladen und installieren](https://apps.ankiweb.net/)
+2. Das Anki-Deck (`.apkg`-Datei) aus dem [Releases-Bereich](../../releases) herunterladen.
+3. In Anki importieren: **Datei → Importieren** und die Deckdatei auswählen.
+4. Mit dem Lernen beginnen – und gerne eigene Karten ergänzen!
 
-2. **Import des Decks:**
-   - Lade das Deck herunter und importiere es in Anki, um mit dem Lernen zu beginnen.
+## Importieren & Exportieren
 
-3. **Anpassung und Beitrag:**
-   - Du kannst das Deck an deine Bedürfnisse anpassen oder weitere Karten hinzufügen. Deine Beiträge können anderen Fahrschüleranwärtern zugutekommen.
+### Importieren eines Anki-Decks (`.apkg`)
 
-## Mitwirkende
+1. **Deck herunterladen:**  
+   Lade die gewünschte `.apkg`-Datei (Anki-Paket) aus dem [Releases-Bereich](../../releases) herunter oder verwende eine eigene Datei.
+2. **Anki öffnen** und auf **Datei → Importieren** klicken.
+3. **Datei auswählen:**  
+   Die `.apkg`-Datei auswählen und bestätigen.
+4. Das Deck steht nun in deiner Stapel-Übersicht zur Verfügung und kann sofort genutzt werden.
 
-- [Tuxplayers](https://github.com/Tuxplayers) - Initiator und Hauptbeitragender
+*Hinweis: Auf Mobilgeräten (AnkiDroid/AnkiMobile) kann die Datei direkt übers Handy geöffnet und importiert werden.*
+
+### Exportieren deines Decks
+
+1. **Eigene Karten ergänzen** oder anpassen.
+2. In Anki auf das gewünschte Deck rechtsklicken und **Exportieren** wählen.
+3. **Format `Anki Deck Paket (*.apkg)` auswählen.**
+4. Optional „Mit Medien“ auswählen, falls Bilder/Sounds enthalten sind.
+5. Die Datei abspeichern und z.B. in diesem Repository (oder per E-Mail, Cloud etc.) teilen.
+
+Damit können alle Fahrlehreranwärter ihr Wissen teilen, kooperativ erweitern und das Deck langfristig aktuell halten.
+
+## Beiträge & Mitmachen
+
+- Verbesserungen, Ergänzungen und Korrekturen sind willkommen!
+- Reiche neue Fragen, Bilder oder Erklärungen per Pull Request ein.
+- Das Ziel: Ein beständig wachsendes, aktuelles Lernwerkzeug für alle Fahrlehreranwärter.
 
 ## Lizenz
 
-Dieses Projekt ist unter der [MIT Lizenz](LICENSE) veröffentlicht. Weitere Informationen finden sich in der Lizenzdatei.
+Dieses Projekt ist Open Source. [Lizenz anzeigen](LICENSE)
+
+---
+
+**Gemeinsam für eine umfassende Fahrlehrerausbildung – viel Erfolg beim Lernen!**
