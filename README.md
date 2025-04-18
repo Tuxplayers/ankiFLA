@@ -1,40 +1,19 @@
 # AnkiFLA – Anki-Deck für die Fahrlehrerausbildung
 
-**AnkiFLA** ist ein offenes, kostenloses Anki-Karteikarten-Deck für die Fahrlehrerausbildung in Deutschland.  
-Es enthält prüfungsrelevante Fragen & Antworten aus allen wichtigen Bereichen – ideal zur aktiven Wiederholung, Prüfungsvorbereitung und Wissensauffrischung.
+AnkiFLA ist ein offenes, kostenloses Anki-Karteikarten-Deck für die Fahrlehrerausbildung in Deutschland. Es enthält prüfungsrelevante Fragen & Antworten aus verschiedenen Bereichen und ist ideal zur aktiven Wiederholung, Prüfungsvorbereitung und Wissensauffrischung geeignet.
 
 ## Themenbereiche
 
-- **Verkehrsrecht** (z. B. StVO, StVZO, FeV)
-- **Fahrphysik**  
-  Grundlagen wie Haftung, Bremsweg, Reibung, Fliehkräfte, physikalische Gesetze beim Fahren.
-- **Fahrerassistenzsysteme (FAS)**  
-  Funktionen, Nutzen und Grenzen moderner Systeme wie ABS, ESP, ACC, Spurhalteassistent, Notbremsassistent etc.
-- **Lernmethoden & Prüfungstipps**
-- **Strafrecht & Ordnungswidrigkeiten**
-- **Punktesystem & Fahreignungsregister**
-- **StVO & Verkehrszeichen**
-- **Weitere prüfungsrelevante Themen**
+- **Verkehrsrecht**: Enthält Informationen zu StVO, StVZO, FeV und anderen relevanten rechtlichen Aspekten.
+- **Fahrphysik**: Grundlagen wie Haftung, Bremsweg, Reibung, Fliehkräfte sowie physikalische Gesetze beim Fahren.
+- **Fahrerassistenzsysteme (FAS)**: Erläutert Funktionen, Nutzen und Grenzen moderner Systeme wie ABS, ESP, ACC, Spurhalteassistent und Notbremsassistent.
+- **Lernmethoden & Prüfungstipps**: Tipps und Methoden zur effektiven Vorbereitung auf die Prüfungen.
+- **Strafrecht & Ordnungswidrigkeiten**: Informationen zu rechtlichen Konsequenzen im Straßenverkehr.
+- **Punktesystem & Fahreignungsregister**: Alles Wissenswerte über das Punktesystem und das Fahreignungsregister.
+- **StVO & Verkehrszeichen**: Wichtige Verkehrsregeln und Verkehrszeichen.
+- **Weitere prüfungsrelevante Themen**: Ein umfassender Überblick von A bis Z.
 
-## Verwendung
-
-1. [Anki herunterladen und installieren](https://apps.ankiweb.net/)
-2. Das Anki-Deck (`.apkg`-Datei) aus dem [Releases-Bereich](../../releases) herunterladen.
-3. In Anki importieren: **Datei → Importieren** und die Deckdatei auswählen.
-4. Mit dem Lernen beginnen – und gerne eigene Karten ergänzen!
-
-## Importieren & Exportieren
-
-### Importieren eines Anki-Decks (`.apkg`)
-
-1. **Deck herunterladen:**  
-   Lade die gewünschte `.apkg`-Datei (Anki-Paket) aus dem [Releases-Bereich](../../releases) herunter oder verwende eine eigene Datei.
-2. **Anki öffnen** und auf **Datei → Importieren** klicken.
-3. **Datei auswählen:**  
-   Die `.apkg`-Datei auswählen und bestätigen.
-4. Das Deck steht nun in deiner Stapel-Übersicht zur Verfügung und kann sofort genutzt werden.
-
-*Hinweis: Auf Mobilgeräten (AnkiDroid/AnkiMobile) kann die Datei direkt übers Handy geöffnet und importiert werden.*
+## Anleitung
 
 ### Exportieren deines Decks
 
@@ -49,8 +28,7 @@ Damit können alle Fahrlehreranwärter ihr Wissen teilen, kooperativ erweitern u
 ## Beiträge & Mitmachen
 
 - Verbesserungen, Ergänzungen und Korrekturen sind willkommen!
-- Reiche neue Fragen, Bilder oder Erklärungen per Pull Request ein.
-- Das Ziel: Ein beständig wachsendes, aktuelles Lernwerkzeug für alle Fahrlehreranwärter.
+- Reiche neue Fragen, Bilder oder Erklärungen per Pull Request ein, um das Deck für alle Fahrlehreranwärter kontinuierlich zu verbessern.
 
 ## Lizenz
 
@@ -58,4 +36,4 @@ Dieses Projekt ist Open Source. [Lizenz anzeigen](LICENSE)
 
 ---
 
-**Gemeinsam für eine umfassende Fahrlehrerausbildung – viel Erfolg beim Lernen!**
+Version: V1.0
