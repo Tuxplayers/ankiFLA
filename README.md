@@ -28,7 +28,20 @@ Damit können alle Fahrlehreranwärter ihr Wissen teilen, kooperativ erweitern u
 ## Beiträge & Mitmachen
 
 - Verbesserungen, Ergänzungen und Korrekturen sind willkommen!
-- Reiche neue Fragen, Bilder oder Erklärungen per Pull Request ein, um das Deck für alle Fahrlehreranwärter kontinuierlich zu verbessern.
+- Reiche neue Fragen, Bilder oder Erklärungen ## Download
+
+## Installation
+
+1. Lade die neueste Version von ankiFLA herunter.
+2. Entpacke die Datei.
+3. Folge den Installationsanweisungen in der Dokumentation.
+4. Du kannst die neueste Version von ankiFLA hier herunterladen:  
+➡️ [Download ankiFLA](https://github.com/Tuxplayers/ankiFLA/releases)
+
+## Beitrag leisten
+
+Falls du zur Entwicklung beitragen möchtest, kannst du das Repository forken und Pull-Requests stellen.
+per Pull Request ein, um das Deck für alle Fahrlehreranwärter kontinuierlich zu verbessern.
 
 ## Lizenz
 
@@ -36,4 +49,5 @@ Dieses Projekt ist Open Source. [Lizenz anzeigen](LICENSE)
 
 ---
 
-Version: V1.0
+Version: V1.01
+Sa 19. Apr 08:00:01 CEST 2025
