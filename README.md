@@ -45,9 +45,10 @@ per Pull Request ein, um das Deck für alle Fahrlehreranwärter kontinuierlich z
 
 ## Lizenz
 
-Dieses Projekt ist Open Source. [Lizenz anzeigen]([LICENSE](https://github.com/Tuxplayers/ankiFLA/wiki/License-MIT))
+Dieses Projekt ist Open Source. [Lizenz anzeigen][LICENSE](https://github.com/Tuxplayers/ankiFLA/wiki/License-MIT)
 
 ---
 
 Version: V1.01
-Sa 19. Apr 08:00:01 CEST 2025
+Mo 21. Apr 11:20:39 CEST 2025
+
