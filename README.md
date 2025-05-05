@@ -49,6 +49,7 @@ Dieses Projekt ist Open Source. [Lizenz anzeigen][LICENSE](https://github.com/Tu
 
 ---
 
-Version: V1.01
-Mo 21. Apr 11:20:39 CEST 2025
+Version: V1.03
+Mo 5. Mai 19:53:55 CEST 2025
+
 
