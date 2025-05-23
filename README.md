@@ -1,3 +1,5 @@
+# Projekt ist Eingestellt seit dem  19.05 2025 - Vielen Dank für Eure Unterstützung !!
+
 # AnkiFLA – Anki-Deck für die Fahrlehrerausbildung
 
 AnkiFLA ist ein offenes, kostenloses Anki-Karteikarten-Deck für die Fahrlehrerausbildung in Deutschland. Es enthält prüfungsrelevante Fragen & Antworten aus verschiedenen Bereichen und ist ideal zur aktiven Wiederholung, Prüfungsvorbereitung und Wissensauffrischung geeignet.
