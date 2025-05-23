@@ -53,6 +53,7 @@ Dieses Projekt ist Open Source.
 ---
 
 Version: V1.03
-Mo 5. Mai 19:53:55 CEST 2025
+Fr 23. Mai 07:06:20 CEST 2025
+
 
 
