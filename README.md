@@ -38,7 +38,7 @@ Damit können alle Fahrlehreranwärter ihr Wissen teilen, kooperativ erweitern u
 2. Entpacke die Datei.
 3. Folge den Installationsanweisungen in der Dokumentation.
 4. Du kannst die neueste Version von ankiFLA hier herunterladen:  
-➡️ [Download ankiFLA](https://github.com/Tuxplayers/ankiFLA/releases)
+
 
 ## Beitrag leisten
 
